@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="XamarinBlob.FilePickerPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Button x:Name="btnPick" Text="Pick File" Clicked="Button_Clicked"></Button>
+        <Button x:Name="btnStore" Text="Upload" Clicked="BtnStore_Clicked"></Button>
+
+        <Image x:Name="resultImage" />
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{698C7437-FD6F-4E7F-A465-689C90B1EE82}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinBlob/MainPage.xaml.cs">
+    <Files>
+      <File FileName="XamarinBlob/MainPage.xaml.cs" Line="100" Column="1" />
+      <File FileName="XamarinBlob/MainPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinBlob" expanded="True" selected="True">
+            <Node name="XamarinBlob" expanded="True">
+              <Node name="FilePickerPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="XamarinBlob.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XamarinBlob.Android PreferredExecutionTarget="Android.LMG820UMc90f795e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.XamarinBlob.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.67EF6E01-37D4-4BB7-AD69-F16990B3D623" />
+  <MultiItemStartupConfigurations />
+</Properties>

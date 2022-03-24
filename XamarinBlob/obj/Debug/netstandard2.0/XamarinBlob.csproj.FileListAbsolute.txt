@@ -1,0 +1,17 @@
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/bin/Debug/netstandard2.0/XamarinBlob.deps.json
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/bin/Debug/netstandard2.0/XamarinBlob.dll
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/bin/Debug/netstandard2.0/ref/XamarinBlob.dll
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/bin/Debug/netstandard2.0/XamarinBlob.pdb
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamarinBlob.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/MyTabbedPage.xaml.g.cs
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamarinBlob.AssemblyInfoInputs.cache
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamarinBlob.AssemblyInfo.cs
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamarinBlob.csproj.CoreCompileInputs.cache
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamarinBlob.dll
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/ref/XamarinBlob.dll
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamarinBlob.pdb
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamarinBlob.csproj.AssemblyReference.cache
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/FilePickerPage.xaml.g.cs

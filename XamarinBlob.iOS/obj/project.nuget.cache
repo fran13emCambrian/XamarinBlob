@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "mPe5JNL3A24hhsqjzT7l/G9O+uPcTiTapIgH8ksDFC17kluqw8cj/E8wz6+thgFJ3jirE8TNuyeCGyCp+lfF+w==",
+  "success": true,
+  "projectFilePath": "/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/XamarinBlob.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/franciscoescobar/.nuget/packages/microsoft.azure.keyvault.core/2.0.4/microsoft.azure.keyvault.core.2.0.4.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/microsoft.azure.storage.blob/11.2.3/microsoft.azure.storage.blob.11.2.3.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/microsoft.azure.storage.common/11.2.3/microsoft.azure.storage.common.11.2.3.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/netstandard.library/2.0.1/netstandard.library.2.0.1.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/newtonsoft.json/10.0.2/newtonsoft.json.10.0.2.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/system.componentmodel.typeconverter/4.3.0/system.componentmodel.typeconverter.4.3.0.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/system.runtime/4.1.0/system.runtime.4.1.0.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/system.runtime.serialization.formatters/4.3.0/system.runtime.serialization.formatters.4.3.0.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/system.runtime.serialization.primitives/4.3.0/system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/system.threading.tasks/4.0.11/system.threading.tasks.4.0.11.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/xam.plugin.media/5.0.1/xam.plugin.media.5.0.1.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/franciscoescobar/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinBlob.MyTabbedPage"
+            xmlns:local1="clr-namespace:XamarinBlob"
+            xmlns:local="clr-namespace:MainPage" 
+            xmlns:local3="clr-namespace:FilePickerPage">
+  <!--Pages can be added as references or inline-->
+  <local1:MainPage Title="Upload Picture"/> 
+  <local1:FilePickerPage Title="Upload Text File"/>
+  <ContentPage Title="Text From Device" />
+</TabbedPage>
