@@ -9,7 +9,7 @@
 --sim=/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/bin/iPhoneSimulator/Debug/XamarinBlob.iOS.app
 --executable=XamarinBlob.iOS
 --nolink
---sdk=15.2
+--sdk=15.4
 --aot-options=-O=-float32
 --abi=x86_64
 --symbollist=/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list

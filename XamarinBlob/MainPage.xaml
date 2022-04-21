@@ -5,6 +5,8 @@
 
     <StackLayout>
         <!-- Place new controls here -->
+
+        <Label x:Name="Student" Text="Francisco Escobar A00223609"></Label>
         <Image WidthRequest="200" HeightRequest="150" x:Name="imgChoosed"></Image>
         
         <Button x:Name="btnPick" Text="Pick" Clicked="BtnPick_Clicked"></Button>

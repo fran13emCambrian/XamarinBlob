@@ -15,7 +15,7 @@ namespace XamarinBlob
         static string _storageConnection = "DefaultEndpointsProtocol=https;AccountName=xamarinblob1;AccountKey=LmgfHydMOaJJVOX0SxloGk0oFnTPTFLUeJN4Z7r8QQclVjgLaUBPcxTDESZpvc3Nspe24FMlmwNz+AStXgVrQA==;EndpointSuffix=core.windows.net";
         static CloudStorageAccount cloudStorageAccount = CloudStorageAccount.Parse(_storageConnection);
         static CloudBlobClient cloudBlobClient = cloudStorageAccount.CreateCloudBlobClient();
-        static CloudBlobContainer cloudBlobContainer = cloudBlobClient.GetContainerReference("textfiles");
+        static CloudBlobContainer cloudBlobContainer = cloudBlobClient.GetContainerReference("images");
         public FilePickerPage()
         {
             InitializeComponent();

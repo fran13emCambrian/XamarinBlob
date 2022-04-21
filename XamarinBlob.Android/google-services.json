@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731368215033",
+    "project_id": "xamarinblob",
+    "storage_bucket": "xamarinblob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731368215033:android:608ab87efba6c22b8c6d28",
+        "android_client_info": {
+          "package_name": "com.xamarinblob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731368215033-7sitj6hlt28a40n0bp46al3dlloi1ci2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-CqHcBGzr8TNbaUqRRVfspG5eaViW0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731368215033-7sitj6hlt28a40n0bp46al3dlloi1ci2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

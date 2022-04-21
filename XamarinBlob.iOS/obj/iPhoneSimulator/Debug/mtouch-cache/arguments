@@ -1,5 +1,5 @@
-# Version: 15.6.0.3 (d17-1: caa899d24)
-/Library/Frameworks/Xamarin.iOS.framework/Versions/15.6.0.3/lib/mtouch/mtouch.exe \
+# Version: 15.8.0.0 (xcode13.3: f10d9e023)
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.8.0.0/lib/mtouch/mtouch.exe \
 	--debug \
 	--sgen-conc \
 	'/target-framework:Xamarin.iOS,Version=v1.0' \
@@ -11,7 +11,7 @@
 	--sim=/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/bin/iPhoneSimulator/Debug/XamarinBlob.iOS.app \
 	--executable=XamarinBlob.iOS \
 	--nolink \
-	--sdk=15.2 \
+	--sdk=15.4 \
 	--aot-options=-O=-float32 \
 	--abi=x86_64 \
 	--symbollist=/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \

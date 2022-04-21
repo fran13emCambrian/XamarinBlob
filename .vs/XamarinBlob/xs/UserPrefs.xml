@@ -1,20 +1,20 @@
 ﻿<Properties StartupConfiguration="{698C7437-FD6F-4E7F-A465-689C90B1EE82}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinBlob/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="XamarinBlob/MainPage.xaml.cs" Line="100" Column="1" />
-      <File FileName="XamarinBlob/MainPage.xaml" />
+      <File FileName="XamarinBlob/FilePickerPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="XamarinBlob/MainPage.xaml.cs" Line="21" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="XamarinBlob" expanded="True" selected="True">
+          <Node name="XamarinBlob" expanded="True">
             <Node name="XamarinBlob" expanded="True">
               <Node name="FilePickerPage.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
             </Node>
-            <Node name="XamarinBlob.Android" expanded="True">
-              <Node name="Properties" expanded="True" />
-            </Node>
+            <Node name="XamarinBlob.Android" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,10 +22,10 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.XamarinBlob.Android PreferredExecutionTarget="Android.LMG820UMc90f795e" />
+  <MonoDevelop.Ide.ItemProperties.XamarinBlob.Android PreferredExecutionTarget="Android.nexus_6p_pie_9_0_-_api_28" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.XamarinBlob.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.67EF6E01-37D4-4BB7-AD69-F16990B3D623" />
+  <MonoDevelop.Ide.ItemProperties.XamarinBlob.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.515F9C49-ED71-403C-88B4-6F01A32EF0E2" />
   <MultiItemStartupConfigurations />
 </Properties>

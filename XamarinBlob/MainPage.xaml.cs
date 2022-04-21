@@ -56,7 +56,7 @@ namespace XamarinBlob
 
             string filePath = file.Path;
             string fileName = Path.GetFileName(filePath);
-            await cloudBlobContainer.CreateIfNotExistsAsync();
+          await cloudBlobContainer.CreateIfNotExistsAsync();
 
             await cloudBlobContainer.SetPermissionsAsync(new BlobContainerPermissions
             {

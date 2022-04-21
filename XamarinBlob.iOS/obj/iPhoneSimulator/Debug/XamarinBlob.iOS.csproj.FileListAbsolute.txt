@@ -51,19 +51,19 @@
 /Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/bin/iPhoneSimulator/Debug/XamarinBlob.dll
 /Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/bin/iPhoneSimulator/Debug/XamarinBlob.pdb
-/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
-/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
-/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/actool/_ProcessedImageAssetsPath.items
-/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
-/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
-/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
-/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
-/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/coremlc/_ProcessedCoreMLModelsPath.items
-/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/_ProcessedBundleResourcesPath.items
-/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/_ProcessedContentPath.items
-/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/optimized/
 /Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/XamarinBlob.iOS.csproj.AssemblyReference.cache
 /Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/XamarinBlob.iOS.csproj.CoreCompileInputs.cache
 /Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/XamarinBlob.iOS.csproj.CopyComplete
 /Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/XamarinBlob.iOS.exe
 /Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/XamarinBlob.iOS.pdb
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/actool/_PartialAppManifest.items
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/actool/_BundleResourceWithLogicalName.items
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/actool/_ProcessedImageAssetsPath.items
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/coremlc/_PartialAppManifest.items
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/_ProcessedBundleResourcesPath.items
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/_ProcessedContentPath.items
+/Users/franciscoescobar/Projects/XamarinBlob/XamarinBlob.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/optimized/
